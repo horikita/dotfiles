@@ -1,0 +1,1 @@
+/Users/kou/dotfiles/.vim

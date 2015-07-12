@@ -1,4 +1,4 @@
-CLASSPATH="/usr/local/bin"
+CLASSPATH="/usr/local/:/usr/local/bin"
 CLASSPATH="$CLASSPATH:.:/usr/local/pgsql/postgresql.jar"
 export CLASSPATH
 alias safari="open -a Safari"
